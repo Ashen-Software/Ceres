@@ -24,11 +24,8 @@ export const Landing: FC<Props> = memo(function Landing(props = {}) {
       <div className={classes.rectangle1}></div>
       <div className={classes.rectangle7}></div>
       <div className={classes.rectangle3}></div>
-      <div className={classes.rectangle4}></div>
-      <div className={classes.rectangle11}></div>
-      <div className={classes.bREVEDESCRIPCIONDELPROYECTO}>BREVE DESCRIPCIÓN DEL PROYECTO</div>
       <div className={classes.rectangle12}></div>
-      <div className={classes.lOGO}>LOGO</div>
+      <div className={classes.logo}>CERES</div>
       <LoginRoninButton_Property1Defa
         className={classes.loginRoninButton}
         swap={{
