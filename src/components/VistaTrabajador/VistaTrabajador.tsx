@@ -57,12 +57,11 @@ export const VistaTrabajador: FC<Props> = memo(function VistaTrabajador(props = 
         }}
       />
       <Profile_Property1Default className={classes.profile} classes={{ image2: classes.image2 }} />
-      <div className={classes.rectangle4}></div>
       <div className={classes.line4}>
         <Line4Icon className={classes.icon} />
       </div>
       <div className={classes.transactionHistory}>Transaction history</div>
-      <div className={classes.lOGO}>LOGO</div>
+      <div className={classes.logo}>CERES</div>
       <div className={classes.rectangle14}></div>
       <div className={classes.currentContracts}>Current contracts</div>
       <div className={classes.line3}>
