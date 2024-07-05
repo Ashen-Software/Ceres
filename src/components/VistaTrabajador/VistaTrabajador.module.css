@@ -237,14 +237,6 @@
   background-color: #07010bf7;
   transform: translate(-50%, -50%);
 }
-.rectangle4 {
-  position: absolute;
-  left: 106px;
-  top: 73px;
-  width: 253px;
-  height: 110px;
-  background-color: #d9d9d9;
-}
 .line4 {
   position: absolute;
   left: 132px;
@@ -275,8 +267,8 @@
   white-space: nowrap;
   flex-direction: column;
 }
-.lOGO {
-  color: #000;
+.logo {
+  color: #ffffff;
   font-size: 12px;
   font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
     'Liberation Sans', sans-serif;
