@@ -1,0 +1,370 @@
+.loginRoninButton.loginRoninButton {
+  left: 575px;
+  top: 386px;
+  transform: initial;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.loginMetamaskButton.loginMetamaskButton {
+  left: 575px;
+  top: 458px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-image:/* webpackIgnore: true */ url('/assets/landing.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.rectangle1 {
+  position: absolute;
+  left: 50%;
+  top: calc(50% - 127px);
+  width: 538px;
+  height: 462px;
+  border-radius: 50px;
+  background-color: #07010bcc;
+  transform: translate(-50%, -50%);
+}
+.rectangle7 {
+  position: absolute;
+  left: 50%;
+  bottom: -9px;
+  width: 1440px;
+  height: 271px;
+  border-radius: 10px 10px 0 0;
+  background-color: #07010bf2;
+  transform: translateX(-50%);
+}
+.rectangle3 {
+  position: absolute;
+  left: 720px;
+  top: 245px;
+  width: 202px;
+  height: 92px;
+  border-radius: 18px;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: inset 0px 0px 50px 10px #07010be5;
+}
+.rectangle4 {
+  position: absolute;
+  left: 527px;
+  top: 218px;
+  width: 169px;
+  height: 146px;
+  background-color: #d9d9d9;
+}
+.rectangle11 {
+  position: absolute;
+  left: 995px;
+  top: 805px;
+  width: 348px;
+  height: 168px;
+  background-color: #d9d9d9;
+}
+.bREVEDESCRIPCIONDELPROYECTO {
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1059px;
+  top: 863px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle12 {
+  position: absolute;
+  left: 91px;
+  top: 810px;
+  width: 282px;
+  height: 176px;
+  border-radius: 16px;
+  background-color: #917e9380;
+}
+.lOGO {
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 588px;
+  top: 284px;
+  width: 51px;
+  height: 14px;
+  flex-direction: column;
+}
+.doesnTHaveAnAccountSignUp {
+  position: absolute;
+  left: 595px;
+  top: 534px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 15px;
+  font-family: Baumans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #fff;
+  font-size: 15px;
+  font-family: Baumans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+}
+.label2 {
+  color: #ce8bfa;
+  font-size: 15px;
+  font-family: Baumans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+  text-decoration: underline;
+}
+.needHelpContactUs {
+  position: absolute;
+  left: 524px;
+  top: 928px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper2 {
+  font-size: 15px;
+  font-family: Bhavuka, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label3 {
+  color: #fff;
+  font-size: 15px;
+  font-family: Bhavuka, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+}
+.label4 {
+  color: #ce8bfa;
+  font-size: 15px;
+  font-family: Bhavuka, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+  text-decoration: underline;
+}
+.materialSymbolsInfoOutline {
+  position: absolute;
+  left: 599px;
+  top: 570px;
+  width: 14px;
+  height: 14px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.byContinuingYouAgreeToOurTerms {
+  position: absolute;
+  left: 617px;
+  top: 571px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper3 {
+  font-size: 10px;
+  font-family: Baumans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label5 {
+  color: #a0a0a0;
+  font-size: 10px;
+  font-family: Baumans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+}
+.label6 {
+  color: #a57cc0;
+  font-size: 10px;
+  font-family: Baumans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+  text-decoration: underline;
+}
+.line1 {
+  position: relative;
+  left: 550px;
+  top: 563px;
+  width: 340.0029px;
+  max-width: 100%;
+  height: 2px;
+  max-height: 100%;
+}
+.line1::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0;
+  transform: rotate(0.1685deg);
+  width: 340.0015px;
+  height: 0;
+  border-bottom: solid 1px #fff;
+}
+.rectangle9 {
+  position: absolute;
+  left: 401px;
+  top: 810px;
+  width: 282px;
+  height: 105px;
+  border-radius: 16px;
+  background-color: #917e9380;
+}
+.ashenSoftware {
+  color: #fff;
+  font-size: 19px;
+  font-family: Bhavuka, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1em;
+  position: absolute;
+  left: 471px;
+  top: 822px;
+  width: 142px;
+  height: 24px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.icBaselineEmail {
+  position: absolute;
+  left: 625px;
+  top: 866px;
+  width: 24px;
+  height: 24px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.icBaselineFacebook {
+  position: absolute;
+  left: 577px;
+  top: 866px;
+  width: 24px;
+  height: 24px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.mdiInstagram {
+  position: absolute;
+  left: 529px;
+  top: 866px;
+  width: 24px;
+  height: 24px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.mdiGithub {
+  position: absolute;
+  left: 481px;
+  top: 866px;
+  width: 24px;
+  height: 24px;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.simpleIconsX {
+  position: absolute;
+  left: 433px;
+  top: 866px;
+  width: 24px;
+  height: 24px;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.line3 {
+  position: absolute;
+  left: 435px;
+  top: 849px;
+  width: 211px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fff;
+}
+.aboutUs {
+  color: #fff;
+  font-size: 19px;
+  font-family: Bhavuka, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1em;
+  position: absolute;
+  left: 161px;
+  top: 822px;
+  width: 142px;
+  height: 24px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.cryptoIpsumBitcoinEthereumDoge {
+  color: #fff;
+  font-size: 16px;
+  font-family: Bhavuka, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1em;
+  position: absolute;
+  left: 118px;
+  top: 867px;
+  width: 228px;
+  height: 100px;
+  text-align: justify;
+  justify-content: center;
+  flex-direction: column;
+}
+.line4 {
+  position: absolute;
+  left: 127px;
+  top: 849px;
+  width: 211px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fff;
+}

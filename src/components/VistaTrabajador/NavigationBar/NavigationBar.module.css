@@ -1,0 +1,139 @@
+.menuMenu.menuMenu {
+  width: 100px;
+  gap: initial;
+  padding: 10px 0;
+}
+.menuMenu2.menuMenu2 {
+  width: 100px;
+  gap: initial;
+  padding: 10px 0;
+}
+.home {
+  color: #101828;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.menuMenu3.menuMenu3 {
+  width: 100px;
+  gap: initial;
+  padding: 10px 0;
+}
+.home2 {
+  color: #101828;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.menuMenu4.menuMenu4 {
+  width: 100px;
+}
+.home3 {
+  color: #101828;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.menuMenu5.menuMenu5 {
+  width: 100px;
+}
+.home4 {
+  color: #101828;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.menuMenu6.menuMenu6 {
+  width: 100px;
+  gap: initial;
+  padding: 10px 0;
+}
+.home5 {
+  color: #101828;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  width: 1440px;
+  height: min-content;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 100px;
+  padding: 24px 0;
+  background-color: #fff;
+}
+.logoSocialzy1 {
+  width: 187px;
+  height: 42px;
+  background-image:/* webpackIgnore: true */ url('/assets/logoSocialzy1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.menu {
+  width: min-content;
+  height: 42px;
+  align-items: flex-start;
+}
+.elementorIconBoxContent {
+  width: min-content;
+  height: min-content;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+._918800652059 {
+  color: #101828;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

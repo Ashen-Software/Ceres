@@ -1,0 +1,69 @@
+.root {
+  position: absolute;
+  left: 24px;
+  top: 20px;
+  width: 290px;
+  height: 54px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle13 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 15px;
+  background-color: #150c1b;
+}
+.loginWithRoninWallet {
+  position: absolute;
+  left: 26.5517%;
+  right: 13.4483%;
+  top: 33.3333%;
+  bottom: 33.3333%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 15px;
+  font-family: Baumans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #fff;
+  font-size: 15px;
+  font-family: Baumans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+}
+.label2 {
+  color: #004de5;
+  font-size: 15px;
+  font-family: Baumans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+}
+.label3 {
+  color: #fff;
+  font-size: 15px;
+  font-family: Baumans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+}
+.tokenBrandedRonin {
+  position: absolute;
+  left: 13.7931%;
+  right: 77.5862%;
+  top: 20.3704%;
+  bottom: 14.8148%;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

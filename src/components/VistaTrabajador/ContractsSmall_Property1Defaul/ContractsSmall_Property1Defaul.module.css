@@ -1,0 +1,76 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 590px;
+  height: 66px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle17 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 20px;
+  background-color: #352342f7;
+}
+.cryptoIpsum4 {
+  color: #fff;
+  font-size: 18px;
+  font-family: Baumans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1em;
+  position: absolute;
+  left: 4.2373%;
+  right: 78.1356%;
+  top: 13.6364%;
+  bottom: 15.1515%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.cryptoIpsumBitcoinEthereumDoge {
+  color: #fff;
+  font-size: 16px;
+  font-family: Bhavuka, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1em;
+  position: absolute;
+  left: 25.5932%;
+  right: 27.4576%;
+  top: 18.1818%;
+  bottom: 19.697%;
+  text-align: justify;
+  justify-content: center;
+  flex-direction: column;
+}
+._2922024 {
+  color: #fff;
+  font-size: 16px;
+  font-family: Bhavuka, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1em;
+  position: absolute;
+  left: 77.1186%;
+  right: 8.4746%;
+  top: 34.8485%;
+  bottom: 34.8485%;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  flex-direction: column;
+}
+.tablerDots {
+  position: absolute;
+  left: 94.2373%;
+  right: 1.6949%;
+  top: 31.8182%;
+  bottom: 31.8182%;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
