@@ -60,35 +60,7 @@
   background-size: cover;
   box-shadow: inset 0px 0px 50px 10px #07010be5;
 }
-.rectangle4 {
-  position: absolute;
-  left: 527px;
-  top: 218px;
-  width: 169px;
-  height: 146px;
-  background-color: #d9d9d9;
-}
-.rectangle11 {
-  position: absolute;
-  left: 995px;
-  top: 805px;
-  width: 348px;
-  height: 168px;
-  background-color: #d9d9d9;
-}
-.bREVEDESCRIPCIONDELPROYECTO {
-  color: #000;
-  font-size: 12px;
-  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
-    'Liberation Sans', sans-serif;
-  position: absolute;
-  left: 1059px;
-  top: 863px;
-  width: min-content;
-  height: min-content;
-  white-space: nowrap;
-  flex-direction: column;
-}
+
 .rectangle12 {
   position: absolute;
   left: 91px;
@@ -98,8 +70,8 @@
   border-radius: 16px;
   background-color: #917e9380;
 }
-.lOGO {
-  color: #000;
+.logo {
+  color: #fff;
   font-size: 12px;
   font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
     'Liberation Sans', sans-serif;
