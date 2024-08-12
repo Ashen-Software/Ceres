@@ -54,31 +54,7 @@ Ceres aims to solve these problems through a blockchain-based system that ensure
 - Node.js
 - npm
 
-### Installation 🛠️
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/ashensoftware/CeresFront.git
-    ```
-
-2. Navigate to the project directory:
-    ```sh
-    cd CeresFront
-    ```
-
-3. Install the dependencies:
-    ```sh
-    npm install
-    ```
-
-4. Start the development server:
-    ```sh
-    npm run dev
-    ```
-
-## Hackathon Details 🎉
-This project was developed as part of the [Fraxtal Hackathon](https://dorahacks.io/hackathon/fraxtal/detail) by DoraHacks. We used Fraxtal's blockchain capabilities to enhance our ticketing solution.
-
+    
 ## Contact Us 📬
 - Yulian Bedoya (https://github.com/ybedoyab)
 - Santiago Acevedo (https://github.com/Und3rW0rld)
